@@ -1,5 +1,4 @@
-# Project Title 
-Building AI for blinded people
+ # Building AI for blinded people
 Final project for the Building AI course
   
 ## Summary
