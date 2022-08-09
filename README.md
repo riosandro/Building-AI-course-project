@@ -1,5 +1,6 @@
-# Building AI for blinded people
-	Final project for the Building AI course
+# Project Title 
+Building AI for blinded people
+Final project for the Building AI course
   
 ## Summary
 My project is about build a glasses that helps blinded people to have a better life 
