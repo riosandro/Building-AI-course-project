@@ -1,4 +1,4 @@
-# Project Title
+
 Building AI for blinded people
 
 Summary
